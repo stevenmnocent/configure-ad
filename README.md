@@ -126,7 +126,7 @@ Step 9: Use Remote Desktop Connection to connect to VM1 using its public IP addr
 </p>
 <p>
 Step 10: Once logged into the virtual machine, navigate to Windows Defender Firewall with Advanced Security, and click on Inbound Security Rules. Enable the following rules:
-•	Core Networking Diagnostics – ICMP Echo Request (ICMPv4-In) from <b><i>any remote address</b></i>.
+<li> Core Networking Diagnostics – ICMP Echo Request (ICMPv4-In) from <b><i>any remote address</b></i>. </li>
 •	Core Networking Diagnostics – ICMP Echo Request (ICMPv4-In) from <b><i>the local subnet</b></i>.
 </p>
 <br />
