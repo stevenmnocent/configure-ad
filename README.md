@@ -30,7 +30,7 @@ This tutorial provides a comprehensive guide to the implementation of on-premise
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Create an Azure virtual network: To set up Active Directory, you'll first need to create an Azure virtual network to which your virtual machines will be connected. You can create this virtual network using the Azure Portal or Azure CLI.
+- Create an Azure virtual network: To set up Active Directory, you'll first need to create an Azure virtual network to which your virtual machines will be connected. You can create this virtual network using the Azure Portal.
 - Create a virtual machine: You'll need to create a virtual machine that will act as the Active Directory domain controller. You can use one of the pre-built images available in the Azure Marketplace, or you can create a custom virtual machine image.
 - Install Active Directory Domain Services: Once you have created the virtual machine, you will need to install Active Directory Domain Services on it. This involves adding the Active Directory Domain Services role to the server and running the necessary configuration wizards.
 - Configure DNS: As part of the Active Directory setup process, you will need to configure DNS. This involves setting up a DNS server on the domain controller virtual machine and configuring your virtual network to use this DNS server.
