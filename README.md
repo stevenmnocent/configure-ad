@@ -125,7 +125,8 @@ Step 9: Use Remote Desktop Connection to connect to VM1 using its public IP addr
 <img src="https://static.wixstatic.com/media/2ebf04_0b79d63027284f9e95e7affa10c3201b~mv2.png" height="80%" width="80%" alt="Configuring On-premises Active Directory within Azure VMs"/>
 </p>
 <p>
-Step 10: Once logged into the virtual machine, navigate to Windows Defender Firewall with Advanced Security, and click on Inbound Security Rules. Enable the following rules:<li> Core Networking Diagnostics – ICMP Echo Request (ICMPv4-In) from <b><i>any remote address</b></i>. </li>
+Step 10: Once logged into the virtual machine, navigate to Windows Defender Firewall with Advanced Security, and click on Inbound Security Rules. Enable the following rules:
+<li> Core Networking Diagnostics – ICMP Echo Request (ICMPv4-In) from <b><i>any remote address</b></i>. </li>
 <li> Core Networking Diagnostics – ICMP Echo Request (ICMPv4-In) from <b><i>the local subnet</b></i>. </li>
 </p>
 <br />
