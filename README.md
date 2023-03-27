@@ -416,7 +416,7 @@ Step 41: Once a user account on Active Directory is successfully logged in, this
 </p>
 <br />
 
-<p align="center"><b><i>🔨Hard work beats talent when talent doesn't work hard. ~ Tim Notke👨🏾‍💻</b></i></p>
+<p align="center">🔨<b><i>Hard work beats talent when talent doesn't work hard.</b></i></p>👨🏾‍💻 <b><i>~ Tim Notke</b></i></p>
 </p>
 <br />
 
