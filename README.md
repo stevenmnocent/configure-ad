@@ -80,7 +80,7 @@ Step 4: Set up the second virtual machine with Windows 10 Pro, Version 21H2, cre
 <img src="https://static.wixstatic.com/media/2ebf04_54d1c0b97da64f4295263c613c908d7b~mv2.png" height="80%" width="80%" alt="Configuring On-premises Active Directory within Azure VMs"/>
 </p>
 <p>
-Step 5: Ensure that VM2 running Windows 10 Pro is added to the same virtual network and resource group as VM1 running Windows Server, by going to the networking tab.
+>**Note**: Ensure that VM2 running Windows 10 Pro is added to the same virtual network and resource group as VM1 running Windows Server, by going to the networking tab.
 </p>
 <br />
 
