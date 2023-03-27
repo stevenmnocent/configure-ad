@@ -364,7 +364,7 @@ Step 35: Launch Windows PowerShell ISE with administrator privileges to create a
 <img src="https://static.wixstatic.com/media/2ebf04_2319dc164f87456e81c52ff601d33804~mv2.png" height="80%" width="80%" alt="Configuring On-premises Active Directory within Azure VMs"/>
 </p>
 <p>
-Step 36: Copy and paste the code provided in the "Text Document" uploaded to this tutorial into PowerShell ISE.
+Step 36: Copy and paste the code provided in the <a href="https://github.com/stevenmnocent/configure-ad/blob/main/Code%20to%20Create%20User%20Accounts.txt">Text Document</a> uploaded to this tutorial into PowerShell ISE.
 </p>
 <br />
 
