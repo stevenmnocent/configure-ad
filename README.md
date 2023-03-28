@@ -1,4 +1,4 @@
-<br>
+<br />
 </p>
 <p align="center">
 <img src="https://static.wixstatic.com/shapes/2ebf04_1a0a78f30bf34163afef25e7e8f6f848.svg" alt="Microsoft Active Directory Logo"/>
