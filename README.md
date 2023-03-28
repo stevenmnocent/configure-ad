@@ -2,6 +2,7 @@
 <p align="center">
 <img src="https://static.wixstatic.com/shapes/2ebf04_1a0a78f30bf34163afef25e7e8f6f848.svg" alt="Microsoft Active Directory Logo"/>
 </p>
+<br />
 
 <h1>On-Premises Active Directory Deployed in the Cloud (Azure)</h1>
 This tutorial provides a comprehensive guide to the implementation of on-premises Active Directory (AD) on Azure Virtual Machines (VMs). It covers the technical aspects involved in setting up and configuring AD within an Azure VM environment, including the necessary network infrastructure, domain controller deployment, and synchronization of AD with on-premises directory services.<br />
