@@ -421,5 +421,5 @@ Step 41: Once a user account on Active Directory is successfully logged in, this
 <p align="center">🔨 <b><i>Hard work beats talent when talent doesn't work hard. ~ Tim Notke</b></i> 👨🏾‍💻</p>
 <br />
 
-<p align="right"> Next: <a href="https://github.com/stevenmnocent/dns-management"
+<p align="right"> Next: <a href="https://github.com/stevennocent/dns-management"
 >DNS Management of A-Records, CNMAE Records and Local DNS Cache</a></p>
